@@ -47,10 +47,13 @@ To suit challenge video,I modified the draw_lines() function:
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-
-
-
+* Curved lane is not recognized
+* Multiple lanes are not recognized
+* The processing speed is slow
+* Unable to work when light is dim
 
 ### 3. Suggest possible improvements to your pipeline
 
+* Curve fitting instead of line fitting
+* 
 
