@@ -2,8 +2,6 @@
 
 ## Writeup
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Finding Lane Lines on the Road**
@@ -34,7 +32,7 @@ My pipeline consisted of 9 steps:
 [image1]: ./test_images_output/solidWhiteCurve_weighted.jpg "White Curve"
 [image2]: ./test_images_output/solidWhiteRight_weighted.jpg "White right"
 [image3]: ./test_images_output/solidYellowCurve2_weighted.jpg "Yellow Curve"
-
+![alt text][image1]
 To suit challenge video,I modified the draw_lines() function:
 * Dump left line and right line in last frame.
 * Find lines in current frame
