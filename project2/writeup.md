@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image5]: ./examples/4.png "No Passing"
 [image6]: ./examples/5.png "Go straight or right"
 [image7]: ./examples/6.png "Ahead Only"
-[image8]: ./examples/German_Traffic_Signs.png.png "GTS"
+[image8]: ./examples/German_Traffic_Signs.png "GTS"
 [image9]: ./examples/augmented.png "Augmented"
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/xn365/self_driving_car_Udacity/tree/master/project2)
 
 ###Data Set Summary & Exploration
 
